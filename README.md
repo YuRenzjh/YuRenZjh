@@ -2,7 +2,6 @@
 
 一个基于 Jekyll 的个人博客模板，专为 GitHub Pages 设计，支持心情标签、暗色模式、响应式布局等功能。
 
-![预览截图](https://via.placeholder.com/1200x630/8CA3AD/FFFFFF?text=博客预览)
 
 ## ✨ 特性
 
